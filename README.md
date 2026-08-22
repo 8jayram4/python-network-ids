@@ -45,3 +45,18 @@ Detection      Detection
           |
           v
       alerts.csv
+## Technologies Used
+
+- Python 3
+- Scapy
+- TCP/IP networking
+- Packet analysis
+- CSV-based security alert logging
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/8jayram4/python-network-ids.git
+cd python-network-ids
