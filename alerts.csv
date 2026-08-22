@@ -1,0 +1,3 @@
+Timestamp,Alert Type,Source IP,Destination IP,Details
+2026-08-22 14:12:32,Possible Port Scan,192.168.1.100,10.0.0.20,15 unique ports detected
+2026-08-22 14:12:32,Possible SYN Flood,Multiple/Unknown,10.0.0.30,60 SYN packets detected
